@@ -8,6 +8,7 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
+    "@next/env": "^12.1.0",
     "@types/theme-ui": "^0.6.0",
     "dotenv": "^8.2.0",
     "framer-motion": "^2.7.5",

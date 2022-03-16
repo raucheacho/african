@@ -2,10 +2,10 @@ import React from 'react';
 import Head from 'next/head';
 
 export default function SEO({
-  description = 'startup product landing page',
-  author = 'JSM',
+  description = 'Site vitrine pour start up et entreprise',
+  author = 'Rauche Acho',
   meta,
-  title = 'startup landing title',
+  title = 'warmko',
 }) {
   const metaData = [
     {
@@ -53,6 +53,6 @@ export default function SEO({
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `fr`,
   meta: [],
 };
