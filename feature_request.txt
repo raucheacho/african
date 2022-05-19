@@ -1,0 +1,1 @@
+(creer les fonctionalités dans la nav barre et activer clique scroll)
