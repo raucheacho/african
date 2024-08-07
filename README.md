@@ -1,7 +1,3 @@
-Voici un exemple de fichier README pour votre projet de template de page d'accueil Next.js 9. Ce README inclut des instructions d'installation et une licence qui permet aux utilisateurs d'en faire ce qu'ils veulent.
-
----
-
 # Template de Page d'Accueil Next.js 9
 
 Ceci est un modèle de page d'accueil personnalisable construit avec Next.js 9. N'hésitez pas à l'utiliser et à le modifier comme bon vous semble.
@@ -13,7 +9,7 @@ Suivez ces étapes pour mettre le projet en place sur votre machine locale :
 1. **Clonez le dépôt :**
 
    ```bash
-   git clone https://github.com//votre-repo.git
+   git clone https://github.com/raucheacho/african.git
    cd votre-repo
    ```
 
@@ -56,7 +52,7 @@ Ce projet est sous licence MIT, ce qui signifie que vous pouvez faire ce que vou
 ```
 MIT License
 
-Droit d'auteur (c) 2024 [Votre Nom]
+Droit d'auteur (c) 2024 Rauche Acho
 
 Permission est par la présente accordée, gratuitement, à toute personne obtenant une copie
 de ce logiciel et des fichiers de documentation associés (le "Logiciel"), de traiter
